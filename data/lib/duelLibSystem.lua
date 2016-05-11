@@ -1,0 +1,3 @@
+function checkPokeballsInDuel(cid)
+
+end

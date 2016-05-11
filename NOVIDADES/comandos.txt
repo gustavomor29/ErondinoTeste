@@ -1,0 +1,30 @@
+>>>> COMANDOS EXISTENTE NESSE SERVER <<<<
+
+~~Other Commands
+!tms -- Ver os tms e seus ataques existentes para por no Smeargle Virgem
+!box1 -- Ver quais pokemons podem vim na box 1
+!box2 -- Ver quais pokemons podem vim na box 2
+!box3 -- Ver quais pokemons podem vim na box 3
+!box4 -- Ver quais pokemons podem vim na box 4
+!tyrogue -- Para ver como fazer um tyrogue
+
+~~Houses
+!buyhouse -- Comprar uma casa
+!sellhouse -- Vender uma casa
+!aleta som -- Deichar alguem abrir as portas de sua casa
+!aleta sio -- Deichar alguem entrar na sua casa
+!subowner -- Colocar outro player como dono
+!leave -- Deichar a casa.
+
+~~Guilds
+!creteguild NOME -- criar uma guild no lugar de NOME poe o nome de sua guild
+!joinguild NOME -- Entrar em uma guild que te invito no lugar de NOME poe o nome da guild que te invito
+
+~~Players
+!rank -- Ver o rank de level
+!online -- Ver quem ta online
+!afk -- Deichar o char afk
+h1 --- Subir com um pokemon de fly
+h2 -- Descer com um pokemon de fly
+h" NOMECIDADE -- Teleportar para uma cidade no lugar de NOMECIDADE poe o nome da cidade que deseja ir.
+

@@ -1,0 +1,50 @@
+>>>> POKEMONS QUE PODEM VIM BOX 2 <<<<
+LVL : 40
+PODE VIM : 1 de 45 POKEMONS DIFERENTES.
+
+>Ivysaur
+>Charmeleon
+>Wartortle
+>Pidgeotto
+>Arbok
+>Pikachu
+>Clefairy
+>Jigglypuff
+>Golbat
+>Dugtrio
+>Kadabra
+>Machoke
+>Graveler
+>Slowbro
+>Magneton
+>Farfetchd
+>Dodrio
+>Haunter
+>Kingler
+>Electrode
+>Weezing
+>Seadra
+>Seaking
+>Starmie
+>Pinsir
+>Tauros
+>Big Magikarp
+>Mini Gyarados
+>Eevee
+>Omanyte
+>Kabuto
+>Dratini
+>Aipom
+>Ariados
+>Bayleef
+>Croconaw
+>Delibird
+>Flaffy
+>Furret
+>Gligar
+>Ledian
+>Quilava
+>Smeargle Virgem
+>Sunflora
+>Tyrogue
+--------------------------------------------------------------------------

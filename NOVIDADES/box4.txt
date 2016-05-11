@@ -1,0 +1,61 @@
+>>>> POKEMONS QUE PODEM VIM BOX 4 <<<<
+LVL : 90
+PODE VIM : 1 de 55 POKEMONS DIFERENTES.
+
+>Venusaur
+>Charizard
+>Blastoise
+>Pidgeot
+>Raichu
+>Arcanine
+>Alakazam
+>Machamp
+>Golem
+>Tentacruel
+>Muk
+>Gengar
+>Exeggutor
+>Rhydon
+>Kangaskhan
+>Scyther
+>Magmar
+>Jynx
+>Electabuzz
+>Gyarados
+>Lapras
+>Kabutops
+>Omastar
+>Aerodactyl
+>Snorlax
+>Dragonite
+>Elite Hitmonlee
+>Elite Hitmonchan
+>Dark Abra
+>Ampharos
+>Blissey
+>Crobat
+>Donphan
+>Feraligatr
+>Girafarig
+>Heracross
+>Houndoom
+>Kingdra
+>Lanturn
+>Mantine
+>Meganium
+>Miltank
+>Misdreavus
+>Octillery
+>Piloswine
+>Porygon2
+>Skarmory
+>Scizor
+>Slowking
+>Steelix
+>Sudowoodo
+>Typhlosion
+>Tyranitar
+>Ursaring
+>Wobbuffet
+>Xatu
+---------------------------------------------------------------------------

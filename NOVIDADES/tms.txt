@@ -1,0 +1,24 @@
+>>>> TMS SMEARGLE <<<<
+
+>TM 1
+spells: Agility,Bubbles,Vine Whip,Thunder Fang,Metronome
+
+>TM 2
+spells: String Shot,Ember,Guitar Paralizy,Fireball,Smooch,Restore
+
+>TM 3
+spells: Shadow Area,Shadow Ball,Sludge,Poison Bomb,Shadow Shadow,Nightmare,Gastro Acid
+
+>TM 4
+spells: Thunder Shock,Rock Throw,Water Gun,Confusion,Poison Gas,Bullet Seed,Blizzard
+
+>TM 5
+spells: Absorb,Super Sonic,Vine Whip,Plant Carnivore,Flame Wheel,Tornado,Solar Beam,Melody
+
+>TM 6  
+spells: Agility,Punch,Bone Club,Ground Chop,Body Slam,Mega Punch,Multi Punch,Roost
+
+>TM 7 
+spells: Rock Throw,Shadow Ball,Whirlwind,Psycho Shift,Psychic,Nightmare,Poison Oath
+
+

@@ -1,0 +1,9 @@
+1-Pokemons selvagens nao testados
+
+2-Pokedex dos primeiros 151 pokemon, pode ser que esteja alguns errado
+
+3-Debug ao abrir o corpse do Donphan e do Skarmory nao sabemos o motivo mas acreditamos que seja no .dat e .spr conseguiu concertar? mande para nos os devidos creditos sera colocado.
+
+4-Bom é isso de bugs que eu saiba mas deve ter outros por ai certo? se achar algum bug que nao seja um desses ai nem relacionado a pokemon selvagem pois vai ser refeitos poste no seguinte link : 
+
+https://www.facebook.com/PokemonDashRevolution
